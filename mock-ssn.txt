@@ -1,0 +1,5 @@
+111-11-1111
+222-22-2222
+333-33-3333
+
+This file is being used to detect SSNs in source code.
